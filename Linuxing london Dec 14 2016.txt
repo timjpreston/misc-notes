@@ -43,5 +43,11 @@ OpenPOWER
 
 based on Power8 processor
 
+OpenStack
+
+cloud management - power VC - management of cloud
+
+bluemix - info from unstructured text
+
 
 
