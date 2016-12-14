@@ -1,0 +1,108 @@
+Linuxing london
+
+@skillsmatter   #codenode
+#23
+
+
+Robots
+________
+@yosheelij   / @engimake  - engimake.com
+
+blockly - progmming language / drag and drop
+
+
+
+
+
+SELinux
+________
+akesterton@redhat.com
+
+SELinux labelling system
+every process has a label .
+evey file directory , system object has a label
+
+
+selinux colouring book
+
+everything not explicity allowed , is denied
+
+multi-catergory security MCS
+
+
+http://danwalsh.livejournal.com
+<topic>site:danwalsh.livejournal.com
+
+sestatus
+
+3 types of problem
+1) label is incorrect
+2 didnt	tell selinux how a process is being run
+3 poicy could be broken
+
+modes enforcing/ permissive / disabled 
+
+
+permissive reports access violations.
+
+dontaudit rule ?
+
+Containers 
+selinux more important for containers.
+
+virtulisation is less securre out of the box then server but more secure than containers
+
+
+Puppet on Linux
+john boero -  goo.gl/slides/2m2rq5
+
+
+central master with audit trailing and central code repository
+
+puppet runs on anything that can run ruby or jruby
+cisco/f5/arista
+hpervistors
+containers 
+
+*firewalld not iptables
+
+puppet = defined state
+
+
+future  docker/ kubernetes/ coreos/    - project blue shift
+
+project atomic - striped donw RHEL
+
+project cockpit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+
+Application Profiling
+
+
+Design of Experiment - metholodgy to define which paraters are critical
+   ANOVA analysis 
+   F-ratio:   varience between explained and unexplained
+   
+Statisitcal Engineering
+    Focus on outcomes not the parameters
+    
+Component Search
+    Good vs Bad
+    Change parts
+    check response if reversed
+    
+Pairwise Comparison
+    Compare A to B, N x M tests
+    
+TBC
+
+
+------------------------------------------------------------------------------------
+
+Open Mainframe
+
+Herb Daly - Univ of Beds
+
+Mainframe 
+DC in a box
+Large scale business computing platform
+
+all linux mainframe , :Linuxone
+3000 instances
+
+BEAMS - Bedforshire Enterprise and mainframe society
+
+http://www.openmaniframeproject.org
+
+-------------------------------------------------------------------------------------
+
+OpenPOWER 
+
+based on Power8 processor
+
+
+

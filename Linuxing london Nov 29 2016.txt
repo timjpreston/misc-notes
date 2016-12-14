@@ -1,0 +1,62 @@
+
+Ansible
+
+Config management
+ agent: daemon on every machine
+ idemptence: apply the same change twice , nothing will be done
+ 
+ ansible- written in python.
+ mainly in push mode
+ infrastructure as data - in yaml format.
+ 
+ no introspection tool
+ 
+ https://slides.fale.io/20061129-en-ansible.pdf
+ 
+ digital ocean account.
+ 
+ 
+ ------------------------------------------------------------------
+ 
+ Relax and recover
+ 
+ create bootable ISO to recover from
+ 
+ included in RHEL7 , also in debian
+ 
+ vargant -
+ 
+ 
+ ------------------------------------------------------------------
+ 
+ Red Hat and the desktop 
+ 
+ Atomic workstation - OSTree 
+ Application Sandboxing - flatpak
+ 
+ 
+ http://siliconislandblog.wordpress.com
+ @acruiz
+ 
+ 
+ ------------------------------------------------------------------
+ 
+ Redhar containers
+ 
+ Redhat / Google - kubernetes
+ 
+ Openshift
+ origin -upstream project
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
