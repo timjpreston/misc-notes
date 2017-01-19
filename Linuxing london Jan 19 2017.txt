@@ -1,0 +1,84 @@
+
+Sponsor Snap
+https://goo.gl/F6yqYX
+
+pine64 equivalent to rasbperry pie 3
+  ubuntu linux , 2 USB ports, network and HDMI
+
+Cobol -> C -> C++ -> Java -> Ruby on Rails
+
+github.com/goblimey
+
+Go - compiled to object code
+golang.org  website - online Course
+
+------------------------------------------------
+Docker
+
+docker run -d -t presentation
+
+@spoole167
+
+Knoppix - one of the first live Cd's (sept 2000)
+    used unionFS
+
+www.flickr.com/photos/45131642@
+
+
+docker run -it ubuntu:16.04 /bin/bash
+-i interactive
+-t terminal
+image and tag
+command
+
+
+docker daemon
+REST api
+cli
+ui
+
+images are local or on docker hub
+
+VM  for mac or windows
+
+docker run -d -p 8080:80 presentation
+map port 8080 to docker port 80
+
+docker ps - list docker instances
+
+images - unit of delivery
+images immutable
+containers are runtime units
+
+docker build -t presentation .
+
+eboraas/bootstrap
+eboraas/debian
+eboraas/apache
+presentation
+
+dockerfile:
+FROM eboraas/apache
+COPY ./DockerCloud /var/www/html
+
+Containers - mini Vms
+
+docker run -d -v  $PWD/var/www/html - 8020:80 -t presentation
+
+nfs style cmd.
+REMEMBER docker containers run as root on local system.
+
+kitematic
+
+docker is key to the cloud
+
+
+doc.docker.com/compose/overview
+
+compose - tool for defiing  and runnuiny multi containers
+
+compose yaml file describes the  containers
+
+kubernetes - docking orchestartion tool
+
+docker comes with built-in deployments tools

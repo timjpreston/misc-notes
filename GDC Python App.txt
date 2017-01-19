@@ -1,0 +1,17 @@
+Python app  in an hour
+
+main.py - the python code
+app.yaml - specified the conditions on the projects
+            mani:app - main python , and app function
+requirements.txt - Tell GDC what needs to be installed
+
+
+// Test locally
+
+pip install --upgrade pip
+pip install flask
+python main.py
+
+
+
+youtube - shuttingdonw and deleting projects
