@@ -82,3 +82,6 @@ compose yaml file describes the  containers
 kubernetes - docking orchestartion tool
 
 docker comes with built-in deployments tools
+
+
+docker swarm - n number hosts  pretending to be 1 docket host
