@@ -1,3 +1,33 @@
 AWS Meetup 25
 
-http://cloudberry.com/
+http://cloudberrylab.com/offers/aws-user-group.aspx
+AWSUGGBLondon
+
+
+
+
+nordcloud
+esynergysoloutions
+
+paul ?  - norcloud
+
+puppet - ansible
+
+---------------------------------------
+AWS from the trenchess
+
+Ec2 scaling is slow
+lots of cost for unused resources
+up to 30 mins for deployment
+
+deploymennts: small  , fast,
+
+5% lambda compared with ec2 compute
+
+ci/cd
+testing
+logging
+alerting
+
+distributed tracing
+config managemenrt
