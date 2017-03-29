@@ -1,0 +1,45 @@
+s/legacy/serverless
+
+- reason - introduction ?
+
+lambda !
+
+@cpswan
+
+http://is.gd/NoNoOps
+
+serverless only removes the management of servers
+
+ops:
+i) Provisioning - 'copying files'
+ii) Config management - 'checing the state of files'
+iii) Monitoring - performance , status
+iv)  Logging -
+
+Terraform ? can help....
+
+Identity - config complexity
+State management - great unsolved problem  of IT
+
+google cloud spanner?
+
+Cloud bleed problems
+
+http://serverless.london/slack
+
+AWS LAmbda /  Azure functions
+
+baacco - multi platform solution
+
+lambda - functional programming at an architectural level
+
+azure - can run long jobs
+amazon - rekognition
+ms cognitive services - OCR  in multiple angles
+
+
+lambda - events syncronous or asynchronus
+azure functions - functions and bindings
+
+
+cloudwatch and functions  -> logstach, elastic
