@@ -31,3 +31,15 @@ alerting
 
 distributed tracing
 config managemenrt
+
+use a deployment framwork eg serverless, apex,sparta
+
+jenkins build config
+
+ELK stack
+datadog
+
+not only cloudwatch - graphite, datadog, stackdrive
+Dont user 128MB setting for labmda  .
+
+---------------------------------------
