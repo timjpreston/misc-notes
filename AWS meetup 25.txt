@@ -41,5 +41,41 @@ datadog
 
 not only cloudwatch - graphite, datadog, stackdrive
 Dont user 128MB setting for labmda  .
+overview :http://theburningmonk.com/2016/12/yubls-raod-to-serverless-architecture-part1
+test  CI/CD http://theburningmonk.com/2016/12/yubls-raod-to-serverless-architecture-part2
+ops - http://theburningmonk.com/2016/12/yubls-raod-to-serverless-architecture-part3
+
+
 
 ---------------------------------------
+AWS greengrass
+
+pillars of iot
+
+things sense and act
+cloud storage and compute
+intelligence insights, logic and action
+
+Greengrass: device gateway, auth and authentication,  action:lambda
+
+Deploy greengrass on hardware
+sync state with the cloud
+
+min spec for servers
+min 1 GHz
+128 MB ram
+x86 /ARM
+Linux ( abuntu/amanzon)
+
+http://aws.amazon.com/Greengrass
+
+---------------------------------------
+Intro to serverless CI/CD
+
+pipeline overview
+code commit -> codebuikd -> cloud formation ->  cloud watch
+
+code -> aws codecommit -> git/github
+build  -> codebuild -> SAM (serverless application model)
+
+tinyurl.com/serverless-awsug
