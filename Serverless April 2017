@@ -1,0 +1,20 @@
+Serveless  April 2017
+
+
+Amido
+
+Lambda@edge - lambada function in cloud front edge
+
+http://clda.co/labda-edge-london
+70+ pops
+
+-static content
+-cache dynamic content
+
+logging not real time , sent to cloudwatch
+no 3rd party monitoring
+
+http://clda.co/labda-edge-demo
+http://clda.co/labda-edge-gis
+
+---------------------------------------------------------------------------
