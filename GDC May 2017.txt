@@ -1,0 +1,32 @@
+GDC Cloud
+
+coursera.org/googlenext
+snap channel
+-----------------------------------------------------------------------
+Ravelin
+http://ravelin.com
+
+google - big query - to replace postgres
+
+BQ datastores to behave like a cache
+all other datastores to be rebuilt from BQ
+
+google BT low latency
+
+BQ - analytics
+Big table and GraphDB -> Scoring
+https://angel.co/ravelin/jobs
+
+----------------------------------------------------------------------
+Datatonic
+TensorFlow and Cloud ML Engine
+
+TF Transform - reprocess the data  eg normalize
+
+BQ connector for TF.
+
+Tensor Flow - lite - for Mobile Apps,
+
+Cloud ML Engine  - Now GA
+
+----------------------------------------------------------------------
