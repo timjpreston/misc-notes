@@ -47,3 +47,21 @@ Use CDN - Gloudfront, distribute static file.
 
 
 Use API gateway  to access API keys
+
+
+
+Lambda and API gateway provide Cloudwatch logs.
+
+Local dev environment
+V1
+    Vagrant  . alpine linux and ansible
+    Local API, Node JS
+    Local Dynamo DB- AWS jar file.
+
+V2: Docker
+    Webpack, api,, dynamo db
+    Dockercompose config in yaml
+
+
+Testing : Unit and intergration
+    Same config on local and circle environments.
