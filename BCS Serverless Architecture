@@ -44,4 +44,6 @@ Access API gateway bt a URL
 
 Use CDN - Gloudfront, distribute static file.
           TLS termination name
-          
+
+
+Use API gateway  to access API keys
