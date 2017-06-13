@@ -1,0 +1,47 @@
+
+@deniscraigdev
+
+www.infinityworks.com
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Serverless - pay for what we use (tompute time)
+
+Lambda  - function run on demand. per ms billing (1st 1m requests free)
+
+c#. java or javascript
+
+Terraform - sits on top of AWS REST API
+Circle Ci -
+
+Cloud formations - AWS - JSON descrive infrastrucuture
+
+CI-
+   Release Stratergy based on branches
+   Build process happens inside of docker containers
+   User YAML
+
+React and Redux
+    Reaxt - view engine  (.jss files)
+    Redux - state managegment for the application
+
+.html/.css/.js -> S3 bucket
+
+need to manage lambda version manually
+
+
+
+API gateway - connects a lamba to static website.
+
+
+lambda - good for web apps.
+
+API gateway - alternatives on GCP ?
+
+Access API gateway bt a URL
+
+Use CDN - Gloudfront, distribute static file.
+          TLS termination name
+          
