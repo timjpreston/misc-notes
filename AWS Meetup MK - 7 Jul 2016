@@ -49,3 +49,34 @@ data driven designs
 dyanodb rather than RDMS
 
 need to do infrastruture as a service - tarra form or cloudformation
+
+deployment and CI/CD
+canarying
+blue/green?
+no staged roll out
+
+ARN?
+
+unit testnig easy
+other testing is different
+lamda is smaller than microservices
+microservices may be 10 lambda functions
+end to end testing can be problamatic
+
+need infrastucture as code for staginging environment.
+
+smaller codebase
+different skills
+
+servers harder to maintain
+serverless - manitain a Infrastructure as code solution
+
+1% that doest work with serverless
+
+#1 Real time system - doest fir with serverless
+#2 Compute intensive tasks  0r sequential and parallel tasks eg Mapreduce
+#3 Very mission critical systems -
+#4 Where you need real control - regulatory
+
+
+@pauldjohnston
