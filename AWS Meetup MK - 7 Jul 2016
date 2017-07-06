@@ -1,0 +1,51 @@
+
+movivo - Paul  Johnson
+
+AWS Lambda  .
+
+or GCP Firebase
+
+
+@jeffconf
+
+use 99% of the time
+
+FaaS - function as a service - event driven
+
+Serverless - more ops then dev!
+
+serveless - super advance cloud
+
+historically
+
+physical servers
+virtual servers
+instance
+managed instances
+containers
+
+even with containers - still maintain server
+
+faas = more complex to manage
+
+scale is easy - but complexity of system in increased
+
+Faas
+
+simon wardley
+
+faas - decompoae  function
+
+cost is minimal
+decouple logic
+no bulky frameworks
+
+events and queues
+events are key
+no syncronous flows - need to be Asyncronus
+push and poll
+
+data driven designs
+dyanodb rather than RDMS
+
+need to do infrastruture as a service - tarra form or cloudformation
