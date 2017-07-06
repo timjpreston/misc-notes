@@ -78,5 +78,6 @@ serverless - manitain a Infrastructure as code solution
 #3 Very mission critical systems -
 #4 Where you need real control - regulatory
 
+log to cloud watch- cloud watch alaram
 
 @pauldjohnston
