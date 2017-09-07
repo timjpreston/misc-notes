@@ -18,9 +18,21 @@ services decouple providers from consumers
 
 -----------------------------------------------------------------
 -jet stack / jetstack.io
-- cert-manager TLS
+
 - kube-lego
 - github.com/munnerz
 - lets encrypt
 - docker hub - jetstack/kube-lego
-- 
+-
+
+--------------------------------------------------------------------
+- microsoft
+- platform php/python/java
+- open source  eco system , eclipe/cloud foundary/ power shell / dominant framework
+- azure containner services
+- web apps for linux is a docker instance
+
+--------------------------------------------------------------------
+- Docker
+- @eltonstoneman
+- powershell - convert server to dockerfile
