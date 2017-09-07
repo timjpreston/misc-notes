@@ -9,4 +9,18 @@
 services decouple providers from consumers
 
 -----------------------------------------------------------------
-@alexjupiter
+-twistlock / @techno_wizardry
+
+- traditional security never keeps up
+- security teams manually create policies in multiple tools
+- containers inprove security
+- security is everybodys problem
+
+-----------------------------------------------------------------
+-jet stack / jetstack.io
+- cert-manager TLS
+- kube-lego
+- github.com/munnerz
+- lets encrypt
+- docker hub - jetstack/kube-lego
+- 
