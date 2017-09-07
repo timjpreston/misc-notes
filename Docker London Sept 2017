@@ -36,3 +36,6 @@ services decouple providers from consumers
 - Docker
 - @eltonstoneman
 - powershell - convert server to dockerfile
+
+- docker on windows
+- elton@docker.com
