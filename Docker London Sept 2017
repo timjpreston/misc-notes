@@ -1,0 +1,12 @@
+
+
+- football radar
+---------------------------------------------------------------------
+- Kubernetes service - set of paods and access to them
+- multiple environments
+- sass - deploy service as external type
+
+services decouple providers from consumers
+
+-----------------------------------------------------------------
+@alexjupiter
