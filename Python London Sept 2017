@@ -1,0 +1,80 @@
+Word Embeddings for  NLP in Python
+
+(Marco Bonzanini) Numfocus
+
+mastering  social medial mining with python
+practicalpython data science techniques
+data analysis with python
+
+pydata - london
+
+Data representation is crucial!
+
+Application -
+classificationone
+
+search engines
+machine translation
+
+one hot encoding
+
+bag  of words
+
+word embeddings - notion of similarity
+
+From Language to vectors -> Distributional Hypothesis
+
+---------------------------------------------------------
+word2vec
+
+Gradient Descent
+optimize an objective function
+
+focus word = output
+cosine similarity between vectors.
+softmax function , normalized cosine function
+
+
+---------------------------------------------------------
+doc2vec
+
+
+
+---------------------------------------------------------
+pre trained vectors from google open sourced
+
+gensim
+pip install gensim
+
+
+case 1 - skills  and cvs - match skills to job spec
+    data exploration, recommendations
+
+case 2 - Beer
+    Data sets 2.9M beer reviews
+    89 beers styles
+    635k unique toknes
+    (pickle to save model)
+    PCA- scikit-learn - map styles and identify similarities
+
+    understand the language in a particular domain
+    classification
+
+case 3 - Evil AI
+    culture is biased
+    language inherits bias from the culture
+    Weapons of math destuction - Cathy O'Neil
+
+
+pre trained vectors are useful - untill theyre not
+>100K words maybe train your own model
+> 1M words def train your own model
+
+Summary
+word ebedings are magic
+big victory of unsupervised learning
+gensim makes life easy
+
+
+@gensim_py
+github.com/bonznini  / @marcobonzanini
