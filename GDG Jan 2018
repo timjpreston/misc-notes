@@ -27,4 +27,10 @@ Kubeflow Components
 -Tensorflow  job operator and controller
 -Tesorflow Model serving
 
-Algorithm chosig -> Building Model -> Serve the Model
+Algorithm chosing -> Building Model -> Serve the Model
+
+
+Dolphin one 
+
+Firebase
+Firestore - NoSQL Document db.
