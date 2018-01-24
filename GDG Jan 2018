@@ -1,2 +1,30 @@
 
-katacoda    katakoda  - online learning platform
+https://www.katacoda.com/  - online learning platform
+
+kubeless - FaaS on kubenetes
+
+
+jupyter in the cloud?
+
+
+@basiafusinska
+
+'Any sufficently advanced technology is indestingushable from magic' - Arthur C Clarke
+
+Machine learning whats changing
+-computing power
+-big data
+-cloud
+-GPU
+-Taining methods
+-Tools
+- Computer Vision , NLP - toughest ML tasks
+
+Tensor Flow - optimized for GPU's - Python API
+
+Kubeflow Components
+-JupyterHub
+-Tensorflow  job operator and controller
+-Tesorflow Model serving
+
+Algorithm chosig -> Building Model -> Serve the Model
