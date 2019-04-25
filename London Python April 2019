@@ -11,3 +11,12 @@ Jupyter Workbooks -
   Linear Workflow
   Don't encourage code reuse
   Too technical for many users
+
+
+xlwings - wrapper for win32com
+
+excel addin for python -
+  user defined functions
+  macro functions in Excel
+  ribbon controls
+  toolbar / context menu items
